@@ -1,0 +1,4 @@
+1st text file!
+Second strging
+Third string
+Lets try again
